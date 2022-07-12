@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WAIGR
+- 👀 I’m interested in  C/C++/C#
+- 🌱 I’m currently learning  .NET
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me (igor.bulakhovv@gmail.com      +79857875522
